@@ -1,0 +1,6 @@
+{
+  "name": "EMO-CALM AI",
+  "description": "Aplikasi sokongan regulasi dan ekspresi emosi untuk kanak-kanak prasekolah: Kenal • Tenang • Luahkan.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
